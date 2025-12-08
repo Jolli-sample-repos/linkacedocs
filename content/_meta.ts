@@ -1,6 +1,5 @@
 export default {
   'index': 'Home',
-  'adjusting-the-database-collation': 'Adjusting the Database Collation',
   'setup-with-docker': 'Setup with Docker',
   'third-party-tools-and-libraries': 'Third Party Tools and Libraries',
   'troubleshooting': 'Troubleshooting',
