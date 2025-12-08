@@ -6,6 +6,7 @@ export default {
   'v2-changelog': 'v2 Changelog',
   'linkace-translations': 'LinkAce Translations',
   'likeace-overview': 'LikeAce Overview',
+  'setup-with-php': 'Setup with PHP',
   'api-linkace-openapi': {
     title: 'Linkace Openapi',
     type: 'page',
